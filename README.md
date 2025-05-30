@@ -12,6 +12,8 @@ SimCLR 기반 Flow-matching idea 사용
 7. 이후 유사도가 높은데도 높은 noise에서 사진을 제대로 검출하는지 비교 (벤치마킹)
 
 # GPT-based Model Feature
+
+
 ## **🧠 SimCLR 기반 Noise-Robust 모델 설계 요약**
 
 ### **1. ✅ 모델 구조 (ResNet18 + Projector)**
